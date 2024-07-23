@@ -8,7 +8,7 @@ public class Arithmatic {
 		int d,e,f;
 		d=a+b;
 		e=c*a;
-		f=b/a;
+		f=b-a;
 		System.out.println("addition of a and b "+d);
 		System.out.println("multiplication of c and a " +e);
 		System.out.println("Division of b and b "+f);
